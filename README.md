@@ -1,6 +1,7 @@
 <h2>workout app using mern stack</h2>
 <ul>
   <li>Created React components for frontend interface</li>
+  <li>User can add new workout and delete previously added workout </li>
   <li>Integrated API using Node.js and Express.js</li>
   <li>MongoDB for database</li>
   <li>JWT for login authentication and hashing for enhanced security</li>
